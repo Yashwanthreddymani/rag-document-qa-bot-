@@ -1,5 +1,3 @@
-# RAG Document Q&A Bot
-
 A basic Retrieval-Augmented Generation (RAG) system that lets users ask natural language questions about a collection of documents and get accurate, grounded answers with source citations.
 
 ## Tech Stack
